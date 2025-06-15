@@ -1,6 +1,7 @@
 # **DocuInsight: AI-Powered Document Interaction and Querying**
 
-**DocuInsight** is an advanced AI-powered chatbot designed to help you interact with your documents. By leveraging **Retrieval-Augmented Generation (RAG)** techniques powered by the **Llama 3** model, DocuInsight allows you to upload PDF documents, parse their contents, and ask contextually relevant questions to extract insights. Whether you're working with business reports, research papers, or any other type of document, DocuInsight turns it into an interactive knowledge hub.
+**DocuInsight** is an advanced AI-powered chatbot designed to help you interact with your documents. By leveraging **Retrieval-Augmented Generation (RAG)** techniques powered by the **Llama 3** model, DocuInsight allows you to upload PDF documents, parse their contents, and ask contextually relevant questions to extract insights. 
+Whether you're working with business reports, research papers, or any other type of document, DocuInsight turns it into an interactive knowledge hub.
 
 The chatbot uses sophisticated document embeddings for efficient retrieval, providing precise answers and offering an intuitive conversational experience.
 
