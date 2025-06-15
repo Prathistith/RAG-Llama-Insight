@@ -6,7 +6,7 @@ The chatbot uses sophisticated document embeddings for efficient retrieval, prov
 
 ## **Features**
 
-![Architecture](/RAG/images/chatbot_screenshot1.JPG)
+![Architecture](/images/chatbot_screenshot1.JPG)
 
 - **PDF Upload and Parsing**: Upload PDF documents, which are then parsed and transformed into a structured, searchable format.
 - **Document Embedding**: Documents are broken into embeddings that allow for efficient search and retrieval of specific information.
@@ -22,7 +22,7 @@ The chatbot uses sophisticated document embeddings for efficient retrieval, prov
 
 ## **Architecture Overview**
 
-![Architecture](/RAG/images/Architecture_design.JPG)
+![Architecture](/images/Architecture_design.JPG)
 
 DocuInsight utilizes the following key components:
 
@@ -35,7 +35,7 @@ DocuInsight utilizes the following key components:
 
 # Chat with your documents
 
-![Architecture](/RAG/images/chatbot_screenshot2.JPG)
+![Architecture](/images/chatbot_screenshot2.JPG)
 
 Chat anything about the documents that you provided. This is using open source LLM models by Meta: Llama 3
 
